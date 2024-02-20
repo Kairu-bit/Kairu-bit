@@ -4,7 +4,7 @@
 
 
 # 👨‍💻 About Me:
-I am Kyle Tilano, aspiring to become a JavaScript Developer. Passionate about crafting innovative solutions through code and dedicated to continuous learning in the dynamic field of web development.
+###### I am Kyle Tilano, aspiring to become a JavaScript Developer. Passionate about crafting innovative solutions through code and dedicated to continuous learning in the dynamic field of web development.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/profile.php?id=100087485860234) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@Kairuxz) 
