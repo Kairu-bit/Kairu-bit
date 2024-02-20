@@ -1,71 +1,25 @@
 
 
-# H1 
-## H2 
-### H3 
-#### H4 
-##### H5 
-
-# Code 
-`Code Here` 
-
-# Quote 
-> Quote
-
-# Warning
-> [!WARNING]
-> Oh No
-
-# TIP
-> [!TIP]
-> TIP
-
-# TASK 
-- [1] Task 
-
-# Table
-| Column1    | Column2    | Column3    | Column4    | Column5    |
-|---------------- | --------------- | --------------- | --------------- | --------------- |
-| Item1.1    | Item2.1    | Item3.1    | Item4.1    | Item5.1   |
-| Item1.2   | Item2.2   | Item3.2   | Item4.2   | Item5.2   |
-
-# URL < and >
-<https://test.com> 
-
-# Text 1 * italic 2 * bold
-*Italic* **Bold** 
-~~StrikeThrough~~ 
-
-# IMG
-![altText](./Download Desktop source code and Wallpaper by coding and programming_ for free.jpeg) 
-
-# important
-
-> [!IMPORTANT]
-> IMPORTANT 
-
-# Ordered List
-1. first
-2. second
-3. third
-
-# Horizontal Rule
----------- 
-
-# Caution
-
-> [!CAUTION]
-> CAUTION
-
-# Code Block
-
-```js
-console.log("Hello World")
-```
-
-# Note
-> [!NOTE]
-> Note 
 
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE.md)
+
+# 👨‍💻 About Me:
+I am Kyle Tilano, aspiring to become a JavaScript Developer. Passionate about crafting innovative solutions through code and dedicated to continuous learning in the dynamic field of web development.
+
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/profile.php?id=100087485860234) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@Kairuxz) 
+
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Kairu-bit&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Kairu-bit&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kairu-bit&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Kairu-bit&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
