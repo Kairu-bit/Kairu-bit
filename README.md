@@ -67,4 +67,4 @@ console.log("Hello World")
 > [!NOTE]
 > Note 
 
-
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
