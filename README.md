@@ -16,9 +16,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Kairu-bit&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kairu-bit&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://images.app.goo.gl/EZCbho16thPBX9bKA)
-
 <!--[![](https://visitcount.itsvg.in/api?id=Kairu-bit&icon=0&color=0)](https://visitcount.itsvg.in)--> 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
