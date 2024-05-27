@@ -1,6 +1,5 @@
 #### I'm Kairu, aspiring to become a Node.js Developer, and I love working with command-line interfaces :)
 
-
 ## Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/KairuxDev) 
 
@@ -14,13 +13,6 @@
 ## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Kairu-bit&theme=matrix&no-frame=false&no-bg=false&margin-w=4)
 
-### Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
-
-### Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Kairu-bit&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### Random Dev Meme
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
 ---
