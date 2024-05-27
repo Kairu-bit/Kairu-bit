@@ -1,9 +1,5 @@
-
-
-
-
-
 #### I'm Kairu, aspiring to become a Node.js Developer, and I love working with command-line interfaces :)
+
 
 ##   Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/KairuxDev) 
