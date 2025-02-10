@@ -4,9 +4,10 @@
 
 # 👋 Hey, I'm Kairu (a.k.a Kyle)
 
-💻 Aspiring **Node.js Developer** | 🔒 **Cybersecurity Enthusiast**
+💻 **Aspiring Node.js Developer** | 🔒 **Cybersecurity Enthusiast**  
 
-**I love building CLI tools, automation scripts, and security-related projects. Currently, I'm working on MLPhisher (not public yet) and expanding my skills in C programming.**
+I enjoy building **CLI tools**, **automation scripts**, and **security-related projects**.  
+Currently, I'm working on **MLPhisher** (not public yet) and **learning C programming** to expand my skill set.
 
 ---
 
@@ -34,14 +35,23 @@
 
 ---
 
-## 📜 HackerRank Certificate 
-[JavaScript (Basic)](https://www.hackerrank.com/certificates/7cb140cfc38e)
-[Problem Solving (Basic)](https://www.hackerrank.com/certificates/cc7e6302fbc3)
+## 📜 **HackerRank Certifications**  
+- [JavaScript (Basic)](https://www.hackerrank.com/certificates/7cb140cfc38e)  
+- [Problem Solving (Basic)](https://www.hackerrank.com/certificates/cc7e6302fbc3)  
 
-## 📊 GitHub Stats  
+---
+
+## 📊 **GitHub Stats**  
+
+<div align="center">
+
 ![](https://github-readme-stats.vercel.app/api?username=Kairu-bit&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true)  
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Kairu-bit&theme=one_dark_pro&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kairu-bit&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kairu-bit&theme=one_dark_pro&hide_border=false&layout=compact)  
+
+</div>
 <!---->
 <!--## Socials:-->
 <!--[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/KairuxDev) -->
