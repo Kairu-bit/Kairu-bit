@@ -1,6 +1,8 @@
-# 👋 Hey, I'm Kairu (Kyle)  
-
 ![We Are FSociety](./wearefsociety.jpeg)
+
+---
+
+# 👋 Hey, I'm Kairu (Kyle)  
 
 💻 Aspiring **Node.js Developer** | 🔒 **Cybersecurity Enthusiast**
 
