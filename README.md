@@ -34,6 +34,10 @@
 
 ---
 
+## 📜 HackerRank Certificate 
+[JavaScript (Basic)](https://www.hackerrank.com/certificates/7cb140cfc38e)
+[Problem Solving (Basic)](https://www.hackerrank.com/certificates/cc7e6302fbc3)
+
 ## 📊 GitHub Stats  
 ![](https://github-readme-stats.vercel.app/api?username=Kairu-bit&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true)  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Kairu-bit&theme=one_dark_pro&hide_border=false)  
