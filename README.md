@@ -7,9 +7,13 @@ I'm currently working on **MLPhisher** (not public yet) and expanding my skills 
 ---
 
 ## 🌍 Connect with Me  
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/KairuDev)[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kairudev)
-[![HackerRank](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg)](https://www.hackerrank.com/kyletilano)
-
+<!--[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/KairuDev)[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kairudev)-->
+<!--[![HackerRank](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg)](https://www.hackerrank.com/kyletilano)-->
+<p align="left">
+<a href="https://fb.com/KairuDev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kairudev" height="30" width="40" /></a>
+<a href="https://instagram.com/kairudev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kairudev" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/kyletilano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kyletilano" height="30" width="40" /></a>
+</p>
 
 ---
 
