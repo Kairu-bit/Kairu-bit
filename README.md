@@ -1,5 +1,7 @@
 # 👋 Hey, I'm Kairu (Kyle)  
 
+![We Are FSociety](./wearefsociety.jpeg)
+
 💻 Aspiring **Node.js Developer** | 🔒 **Cybersecurity Enthusiast**
 
 I'm currently working on **MLPhisher** (not public yet) and expanding my skills in **C programming**. I enjoy building CLI tools, automation scripts, and security-related projects.
